@@ -1,0 +1,21 @@
+<course>
+
+    <language>Español</language>
+    
+    <course_main_category>Programacion</course_main_category>
+    
+    <course_sub_category>Python</course_sub_category>
+
+    <course_keywords>Español Python</course_keywords>
+
+    <media_type>PDF</media_type>
+
+    <title>Aprendiendo a Programar en Python con mi Computador: Primeros pasos rumbo a cómputos de gran escala en las Ciencias e Ingenierías</fromtitle>
+    <media_abstract>Este libro está dirigido, principalmente, a Estudiantes y Docentes que quieren aprender a programarcomo forma de fortalecer sus capacidades cognoscitivas y así obtener un beneficio adicional de su computador para lograr un mejor provecho de sus estudios. Dada la orientación del libro respecto a programar para resolver problemas asociados a las Ciencias e Ingenierías, el requisito mínimo de matemáticas que hemos elegido para presentar el contenido del mismo se cubre, normalmente, en el tercer año del bachillerato. No obstante, el requisito no es obligatorio para leer el libro en su totalidad y adquirir los conocimientos de programación obviando el contenido matemático.</media_abstract>    
+
+    <media_date>2016</media_date>
+    <media_size>2.73MB</media_size>
+    
+    <files_location>https://api.mountainscholar.org/server/api/core/bitstreams/1858a20e-e139-47c6-aab7-109f8cf37d1b/content</files_location>
+
+</course>
